@@ -1,2 +1,2 @@
 # Lab-1
-First lab for ITM-361
+Lab 1 repository testing
